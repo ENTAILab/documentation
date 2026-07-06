@@ -1,7 +1,10 @@
 export default {
   title: "ENTAILab",
 
+    appearance: true, // 🌙 Dark mode toggle
+  
   themeConfig: {
+    siteTitle: "ENTAILab",
     nav: [
       { text: "Home", link: "/" },
       { text: "Measure 1", link: "/measure-1/" },
