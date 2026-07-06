@@ -1,5 +1,5 @@
 {
-  "name": "docs-site",
+  "name": "ENTAILab",
   "private": true,
   "devDependencies": {
     "vitepress": "^1.0.0"
