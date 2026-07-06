@@ -1,0 +1,88 @@
+/* ========== BASE ========== */
+:root {
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f6f7f9;
+  --vp-c-bg-alt: #fbfbfc;
+
+  --vp-c-text-1: #111827;
+  --vp-c-text-2: #4b5563;
+
+  --vp-c-brand-1: #4f7cff;
+  --vp-c-brand-2: #3b5bdb;
+
+  --vp-c-divider: #e5e7eb;
+}
+
+/* ========== TYPOGRAPHY ========== */
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, Inter, Segoe UI, Roboto;
+  line-height: 1.65;
+  font-size: 16px;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.6rem;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+}
+
+/* ========== LINKS ========== */
+a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+}
+
+/* ========== SIDEBAR ========== */
+.VPSidebar {
+  background: var(--vp-c-bg-soft);
+  border-right: 1px solid var(--vp-c-divider);
+}
+
+/* ========== NAVBAR ========== */
+.VPNav {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+/* ========== CONTENT AREA ========== */
+.VPContent {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* ========== CARDS (Links nicer) ========== */
+.VPDoc a {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+}
+
+.VPDoc a:hover {
+  background: #eef2ff;
+}
+
+/* ========== CODE BLOCKS ========== */
+pre {
+  background: #f3f4f6 !important;
+  border-radius: 10px;
+}
+
+/* ========== DARK MODE OFF (Lumen = light only) ========== */
+.dark {
+  --vp-c-bg: #ffffff;
+}
