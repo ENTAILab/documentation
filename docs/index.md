@@ -31,7 +31,7 @@
     </a>
     <!--### -->
     <a class="resource-card" href="measure-2/">
-      <span class="resource-card__label">Measure 1</span>
+      <span class="resource-card__label">Measure 2</span>
       <h3 class="resource-card__title">Research-Driven Infrastructure for Advanced Survey-Related Data (CIRCLET) </h3>
       <p class="resource-card__description">ENTAILab involves the implementation, testing and provision of a strong research-oriented tool in the form of a research-driven infrastructure for advanced survey-related data (<b>CIRCLET</b>). CIRCLET will ensure the reproducibility and interoperability of methods working with survey data. This is done through a multi-phase strategy that drives, scales and evaluates the development of methods based on new survey data over the course of InfPP. CIRCLET develops, tests and provides generic services to open up new data and methodological horizons according to the evolving needs of InfPP.</p>
       <span class="resource-card__meta">More about Measure 2</span>
