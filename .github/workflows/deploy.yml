@@ -19,8 +19,7 @@ jobs:
           node-version: 20
 
       - run: npm install
-
-      - run: npx vitepress build docs
+      - run: npm run docs:build
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
