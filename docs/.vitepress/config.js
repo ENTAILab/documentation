@@ -19,7 +19,7 @@ export default {
       { text: "Measuer 1", link: "measure-1/" },
       { text: "Measuer 2", link: "measure-2/" },
       { text: "Measuer 3", link: "measure-3/" },
-      { text: "Measuer 4", link: "measure-4/" }
+      { text: "Measuer 4", link: "measure-4/" },
       { text: "About", link: "https://www.new-data-spaces.de/en-us/Start/About-the-Programme/ENTAILab" }
     ],
 
