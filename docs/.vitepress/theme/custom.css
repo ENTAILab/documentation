@@ -106,7 +106,7 @@
 /* Centered content like Vercel Docs */
 .VPContent {
   /*max-width: 900px;*/
-  max-width: 1200px;
+  width: max(75vw, 900px);
   margin: 0 auto;
 }
 
