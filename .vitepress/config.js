@@ -1,11 +1,14 @@
 export default {
+  base: "/documentation/",
+
   title: "ENTAILab",
   description: "ENTAILab - Dokumentation",
-  base: "/documentation/",
+
   appearance: true,
 
   themeConfig: {
     siteTitle: "ENTAILab",
+
     logo: {
       light: "/spp_black.png",
       dark: "/spp.png"
