@@ -1,7 +1,7 @@
 export default {
   title: "ENTAILab",
   description: "ENTAILab - Dokumentation",
-
+  base: "/documentation/",
   appearance: true,
 
   themeConfig: {
