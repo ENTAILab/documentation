@@ -1,4 +1,4 @@
-import "./custom.css"
+import "./lumen.css"
 
 export default {
   enhanceApp() {}
