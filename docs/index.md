@@ -1,8 +1,8 @@
 # Research Infrastructure and Innovation Lab (ENTAILab)
 
 <section class="home-intro">
-  <p class="home-intro__eyebrow">Central ENTAILab Documentation - Hub</p>
-  <p class="home-intro__lead">A central point of reference for documenting project deliverables such as software solutions and datasets.</p>
+  <p class="home-intro__eyebrow">ENTAILab Documentation - Hub</p>
+  <!--p class="home-intro__lead">A central point of reference for documenting project deliverables such as software solutions and datasets.</p-->
 
   <div>
     <p>The Research Infrastructure and Innovation Lab (<b>ENTAILab</b>) is dedicated to the use of existing research infrastructures, their advancement and the demand-oriented generation of a new research infrastructure for the needs of the InfPP projects and the development of new data spaces. ENTAILab aims to create a unique infrastructure for research-based innovations in the field of survey data and beyond.</p>
