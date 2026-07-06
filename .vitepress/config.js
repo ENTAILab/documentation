@@ -1,30 +1,37 @@
 export default {
   title: "ENTAILab",
+  description: "ENTAILab - Dokumentation",
 
-    appearance: true, // 🌙 Dark mode toggle
-  
+  appearance: true,
+
   themeConfig: {
     siteTitle: "ENTAILab",
+
     nav: [
       { text: "Home", link: "/" },
-      { text: "Measure 1", link: "/measure-1/" },
-      { text: "Measure 2", link: "/measure-2/" }
+      { text: "Site A", link: "/site-a/" },
+      { text: "Site D", link: "/site-d/" }
     ],
 
     sidebar: {
-      "/measure-2/": [
+      "/site-a/": [
         {
-          text: "CIRCLET",
+          text: "Site A",
           items: [
-            { text: "Details", link: "/measure-2/details" }
+            { text: "Intro", link: "/site-a/intro" },
+            { text: "Setup", link: "/site-a/setup" }
+          ]
+        }
+      ],
+
+      "/site-d/": [
+        {
+          text: "Site D",
+          items: [
+            { text: "Details", link: "/site-d/details" }
           ]
         }
       ]
-    }
-  },
-  vite: {
-    css: {
-      preprocessorOptions: {}
     }
   }
 }
