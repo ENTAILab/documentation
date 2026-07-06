@@ -6,6 +6,10 @@ export default {
 
   themeConfig: {
     siteTitle: "ENTAILab",
+    logo: {
+      light: "/spp_black.png",
+      dark: "/spp.png"
+    },
 
     nav: [
       { text: "Home", link: "/" },

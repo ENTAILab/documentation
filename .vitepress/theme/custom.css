@@ -1,9 +1,15 @@
 :root {
+  --spp-c-mint: #16dc80;
+  --spp-c-teal: #015c63;
+  --spp-c-green: #00bd8b;
+
   --vp-c-bg: #0a0a0a;
   --vp-c-bg-soft: #111;
   --vp-c-text-1: #f5f5f5;
   --vp-c-text-2: #a1a1aa;
-  --vp-c-brand-1: #6366f1;
+  --vp-c-brand-1: var(--spp-c-mint);
+  --vp-c-brand-2: var(--spp-c-green);
+  --vp-c-brand-3: var(--spp-c-teal);
 }
 
 /* Centered content like Vercel Docs */
