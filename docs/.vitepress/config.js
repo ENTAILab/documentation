@@ -1,7 +1,7 @@
 export default {
   base: "/documentation/",
 
-  title: "ENTAILab",
+  title: "ENTAILab: Research Infrastructure and Innovation Lab",
   description: "ENTAILab - GitHub-Dokumentation",
 
   appearance: true,
