@@ -2,7 +2,7 @@ export default {
   base: "/documentation/",
 
   title: "ENTAILab",
-  description: "ENTAILab - Dokumentation",
+  description: "ENTAILab - GitHub-Dokumentation",
 
   appearance: true,
 
@@ -16,29 +16,32 @@ export default {
 
     nav: [
       { text: "Home", link: "/" },
-      { text: "Site A", link: "/site-a/" },
-      { text: "Site D", link: "/site-d/" }
+      { text: "Measuer 1", link: "measure-1/" },
+      { text: "Measuer 2", link: "measure-2/" },
+      { text: "Measuer 3", link: "measure-3/" },
+      { text: "Measuer 4", link: "measure-4/" }
+      { text: "About", link: "https://www.new-data-spaces.de/en-us/Start/About-the-Programme/ENTAILab" }
     ],
 
-    sidebar: {
-      "/site-a/": [
-        {
-          text: "Site A",
-          items: [
-            { text: "Intro", link: "/site-a/intro" },
-            { text: "Setup", link: "/site-a/setup" }
-          ]
-        }
-      ],
+    // sidebar: {
+    //   "/site-a/": [
+    //     {
+    //       text: "Site A",
+    //       items: [
+    //         { text: "Intro", link: "/site-a/intro" },
+    //         { text: "Setup", link: "/site-a/setup" }
+    //       ]
+    //     }
+    //   ],
 
-      "/site-d/": [
-        {
-          text: "Site D",
-          items: [
-            { text: "Details", link: "/site-d/details" }
-          ]
-        }
-      ]
-    }
+    //   "/site-d/": [
+    //     {
+    //       text: "Site D",
+    //       items: [
+    //         { text: "Details", link: "/site-d/details" }
+    //       ]
+    //     }
+    //   ]
+    // }
   }
 }
