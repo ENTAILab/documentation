@@ -1,12 +1,15 @@
-# Home
+# Research Infrastructure and Innovation Lab (ENTAILab)
 
 <section class="home-intro">
-  <p class="home-intro__eyebrow">ENTAILab Documentation</p>
-  <p class="home-intro__lead">Central entry point for project documentation, site-specific material, and recent updates.</p>
+  <p class="home-intro__eyebrow">Central ENTAILab Documentation - Hub</p>
+  <p class="home-intro__lead">A central point of reference for documenting project deliverables such as software solutions and datasets..</p>
   <div class="spp-action-row">
     <a class="spp-button spp-button--mint" href="/">Home</a>
-    <a class="spp-button spp-button--green" href="/site-a/">Site A</a>
-    <a class="spp-button spp-button--outline" href="/site-d/">Site D</a>
+    <a class="spp-button spp-button--green" href="/measure-1/">Measure 1</a>
+    <a class="spp-button spp-button--green" href="/measure-2/">Measure 2</a>
+    <a class="spp-button spp-button--green" href="/measure-3/">Measure 3</a>
+    <a class="spp-button spp-button--green" href="/measure-4/">Measure 4</a>
+    
   </div>
 </section>
 
