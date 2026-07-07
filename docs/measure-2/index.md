@@ -95,7 +95,7 @@
   <div class="pipeline-card-grid">
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&amp;logoColor=white" alt="Python 3.x" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/pipeline-MMTM-015c63" alt="Pipeline: MMTM" />
         <img src="https://img.shields.io/badge/task-topic%20modeling-00bd8b" alt="Task: topic modeling" />
@@ -106,7 +106,7 @@
     </article>
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&amp;logoColor=white" alt="Python 3.x" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/project-SmartDYN-015c63" alt="Project: SmartDYN" />
         <img src="https://img.shields.io/badge/modality-visual%20material-00bd8b" alt="Modality: visual material" />
         <img src="https://img.shields.io/badge/task-topic%20modeling-0b7285" alt="Task: topic modeling" />
@@ -117,7 +117,7 @@
     </article>
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&amp;logoColor=white" alt="Python 3.x" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/project-IndividualTextCorporaPhase1-015c63" alt="Project: IndividualTextCorporaPhase1" />
         <img src="https://img.shields.io/badge/method-RAG-00bd8b" alt="Method: RAG" />
         <img src="https://img.shields.io/badge/LLM-MCQ%20fine--tuning-0b7285" alt="LLM: MCQ fine-tuning" />
@@ -128,7 +128,7 @@
     </article>
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&amp;logoColor=white" alt="Python 3.x" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/dataset-AraSentEval-015c63" alt="Dataset: AraSentEval" />
         <img src="https://img.shields.io/badge/language-Arabic-00bd8b" alt="Language: Arabic" />
         <img src="https://img.shields.io/badge/task-sentiment%20analysis-0b7285" alt="Task: sentiment analysis" />
@@ -139,7 +139,7 @@
     </article>
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&amp;logoColor=white" alt="Python 3.x" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/project-CrossModalNegation-015c63" alt="Project: CrossModalNegation" />
         <img src="https://img.shields.io/badge/modality-multimodal-00bd8b" alt="Modality: multimodal" />
         <img src="https://img.shields.io/badge/task-negation%20analysis-0b7285" alt="Task: negation analysis" />
