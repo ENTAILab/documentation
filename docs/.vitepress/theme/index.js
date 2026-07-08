@@ -1,5 +1,15 @@
 import DefaultTheme from "vitepress/theme"
-import '@fortawesome/fontawesome-free/css/all.min.css'
 import "./custom.css"
 
-export default DefaultTheme
+export default DefaultTheme {
+  extends: DefaultTheme,
+  head: [
+    [
+      'link',
+      {
+        rel: 'stylesheet',
+        href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css'
+      }
+    ]
+  ]
+}
