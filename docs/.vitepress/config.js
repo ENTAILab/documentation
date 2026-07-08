@@ -35,7 +35,7 @@ export default {
         text: '<i class="fa-brands fa-github"></i> GitHub',
         link: 'https://github.com/ENTAILab'
       },
-      { text: "About", link: "https://www.new-data-spaces.de/en-us/Start/About-the-Programme/ENTAILab" }
+      { text: '<i class="fa-solid fa-circle-info"></i> About', link: "https://www.new-data-spaces.de/en-us/Start/About-the-Programme/ENTAILab" }
     ],
 
     // sidebar: {
