@@ -59,7 +59,9 @@
 - Prof. Dr. Alexander Mehler
 - Prof. Dr. Reinhard Pollak
 - Prof. Dr. Sabine Zinn
-  
+
+<a href="https://gepris.dfg.de/project/515388178" target="_blank"><img src="./public/dfg_logo_schriftzug_blau_foerderung_en.jpg"></<a>
+
 </section>
 
 
