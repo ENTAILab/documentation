@@ -51,12 +51,15 @@
       <span class="resource-card__meta">More about Measure 4</span>
     </a>    
   </div>
-</section>
 
-# Principal Investigator
+<h2 id="pi-area" class="home-section__title">Principal Investigators</h2>
 - Prof. Dr. Cordula Artelt
 - Prof. Dr. Corinna Kleinert
 - Prof. Dr. Stefan Liebig
 - Prof. Dr. Alexander Mehler
 - Prof. Dr. Reinhard Pollak
 - Prof. Dr. Sabine Zinn
+  
+</section>
+
+
