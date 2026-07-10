@@ -93,7 +93,7 @@
 <section class="pipeline-showcase" aria-labelledby="pipeline-showcase-title">
   <h3 id="pipeline-showcase-title" class="pipeline-showcase__title">Project-specific pipelines developed with SPP projects</h3>
   <div class="pipeline-card-grid">
-    <article class="pipeline-card">
+    <!-- <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
         <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
         <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" />
@@ -103,7 +103,7 @@
       <h4 class="pipeline-card__title">MMTM (tri-modal topic modeling)</h4>
       <p class="pipeline-card__description">Extracts themes from long-form video responses with a tri-modal topic modeling workflow.</p>
       <a class="pipeline-card__link" href="https://github.com/ENTAILab/MutlimodalVideoTopicModeling" target="_blank" rel="noreferrer">Open GitHub repository</a>
-    </article>
+    </article> -->
     <article class="pipeline-card">
       <div class="pipeline-card__badges" aria-label="Project badges">
         <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12" />
