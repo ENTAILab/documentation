@@ -113,7 +113,7 @@ const sortedPapers = [...papers].sort(
 <ProjectPipelines />
 
   <p>
-    As shown in Table 1, CIRCLET provides, hosts, and adapts software components for shared use across the SPP. This includes Open WebUI, which provides unified and standardized access to Ollama instances and is suitable for web-based prototyping and API-based NLP tasks. JupyterHub enables the dedicated execution of isolated Jupyter notebooks and can be used as a web-based, interactive development environment for Python-based code and data. Similar to Google Colab, it uses local resources and GPUs, allowing users to prototype and evaluate applications before integrating them into big data infrastructures such as DUUI. Slurm is a high-performance computing solution that enables the distribution and shared, fair use of CPU and GPU resources within a cluster; it can be used both through Jupyter notebooks and via DUUI <a class="citation-link" href="#reference-zhou-2026">Zhou, Abrami, and Mehler, 2026</a>.
+    As shown in Table 1, CIRCLET provides, hosts, and adapts software components for shared use across the SPP. This includes Open WebUI, which provides unified and standardized access to Ollama instances and is suitable for web-based prototyping and API-based NLP tasks. JupyterHub enables the dedicated execution of isolated Jupyter notebooks and can be used as a web-based, interactive development environment for Python-based code and data. Similar to Google Colab, it uses local resources and GPUs, allowing users to prototype and evaluate applications before integrating them into big data infrastructures such as DUUI. Slurm is a high-performance computing solution that enables the distribution and shared, fair use of CPU and GPU resources within a cluster; it can be used both through Jupyter notebooks and via DUUI (<a class="citation-link" href="#reference-zhou-2026">Zhou, Abrami, and Mehler, 2026</a>).
   </p>
 
   <p>
@@ -126,15 +126,15 @@ const sortedPapers = [...papers].sort(
   <h2 id="circlet-scalability" class="software-section__title">Computational Scalability (DUUI)</h2>
 
   <p>
-    CIRCLET has contributed to standardizing the use of tools and systems for natural language processing and multimodal computing, including text <a class="citation-link" href="#reference-wigbels-2026">Wigbels et al., 2026</a>, image <a class="citation-link" href="https://doi.org/10.1145/3795513.3807426" target="_blank" rel="noreferrer">Weiss et al., 2026</a>, and video processing <a class="citation-link" href="https://aclanthology.org/2025.konvens-1.22/" target="_blank" rel="noreferrer">Bundan, Abrami, and Mehler, 2025</a>.
+    CIRCLET has contributed to standardizing the use of tools and systems for natural language processing and multimodal computing, including text (<a class="citation-link" href="#reference-wigbels-2026">Wigbels et al., 2026</a>), image (<a class="citation-link" href="https://doi.org/10.1145/3795513.3807426" target="_blank" rel="noreferrer">Weiss et al., 2026</a>), and video processing (<a class="citation-link" href="https://aclanthology.org/2025.konvens-1.22/" target="_blank" rel="noreferrer">Bundan, Abrami, and Mehler, 2025</a>).
   </p>
 
   <p>
-    This standardization has been implemented through DUUI, the Docker Unified UIMA Interface <a class="citation-link" href="https://aclanthology.org/2023.findings-emnlp.29" target="_blank" rel="noreferrer">Leonhardt et al., 2023</a>. DUUI provides an interoperable environment that makes existing tools and services reusable for distributed big-data processing <a class="citation-link" href="https://doi.org/10.1016/j.softx.2024.102033" target="_blank" rel="noreferrer">Abrami et al., 2025</a>.
+    This standardization has been implemented through DUUI, the Docker Unified UIMA Interface (<a class="citation-link" href="https://aclanthology.org/2023.findings-emnlp.29" target="_blank" rel="noreferrer">Leonhardt et al., 2023</a>). DUUI provides an interoperable environment that makes existing tools and services reusable for distributed big-data processing (<a class="citation-link" href="https://doi.org/10.1016/j.softx.2024.102033" target="_blank" rel="noreferrer">Abrami et al., 2025</a>).
   </p>
 
   <p>
-    DUUIgateway extends this infrastructure by providing a web- and API-based access layer for DUUI <a class="citation-link" href="https://doi.org/10.1016/j.softx.2026.102549" target="_blank" rel="noreferrer">Borkowski et al., 2026</a>. It facilitates the deployment, management, and monitoring of NLP workflows and makes DUUI-based processing more accessible to non-expert users.
+    DUUIgateway extends this infrastructure by providing a web- and API-based access layer for DUUI (<a class="citation-link" href="https://doi.org/10.1016/j.softx.2026.102549" target="_blank" rel="noreferrer">Borkowski et al., 2026</a>). It facilitates the deployment, management, and monitoring of NLP workflows and makes DUUI-based processing more accessible to non-expert users.
   </p>
 </section>
 

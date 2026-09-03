@@ -3,8 +3,8 @@ import employees from './employees.json'
 </script>
 
 <template>
-  <section class="employees-section" aria-labelledby="employees">
-    <h2 id="employees">Employees</h2>
+  <section class="employees-section" aria-labelledby="team">
+    <h2 id="team">Team</h2>
     <div class="employees-grid">
       <article v-for="employee in employees" :key="employee.name" class="employee-card">
         <a :href="employee.profileUrl" target="_blank" rel="noreferrer" tabindex="-1">

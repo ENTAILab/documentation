@@ -726,13 +726,11 @@ a:hover {
   transform: none;
 }
 
-.citation-link::before,
 .citation::before {
   margin-right: 5px;
   content: "(";
 }
 
-.citation-link::after,
 .citation::after {
   margin-left: 5px;
   content: ")";
