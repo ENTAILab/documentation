@@ -29,6 +29,7 @@ export default {
       { text: '<i class="fa-solid fa-house"></i> Home', link: "/" },
       { text: '<i class="fa-solid fa-flask"></i> Measure 1', link: "/measure-1/" },
       { text: '<i class="fa-solid fa-flask"></i> Measure 2', link: "/measure-2/" },
+      { text: '<i class="fa-solid fa-code"></i> Measure 2 devs', link: "/measure-2-devs/" },
       { text: '<i class="fa-solid fa-flask"></i> Measure 3', link: "/measure-3/" },
       { text: '<i class="fa-solid fa-flask"></i> Measure 4', link: "/measure-4/" },
       {

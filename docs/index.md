@@ -1,5 +1,10 @@
 # Research Infrastructure and Innovation Lab (ENTAILab)
 
+<aside class="hosting-banner" aria-label="Hosting information">
+  <a class="hosting-banner__logo-link" href="https://www.texttechnologylab.org/" target="_blank" rel="noreferrer" aria-label="Text Technology Lab website"><img class="hosting-banner__logo" src="/ttlab.png" alt="TTLab" /></a>
+  <span>This website is hosted and provided by the <a href="https://www.texttechnologylab.org/" target="_blank" rel="noreferrer">Text Technology Lab (TTLab)</a> at Goethe University Frankfurt.</span>
+</aside>
+
 <section class="home-intro">
   <p class="home-intro__eyebrow">ENTAILab Documentation - Hub</p>
   <!--p class="home-intro__lead">A central point of reference for documenting project deliverables such as software solutions and datasets.</p-->
@@ -68,5 +73,3 @@
 </a>
 
 </section>
-
-

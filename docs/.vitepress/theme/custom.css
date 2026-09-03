@@ -333,6 +333,40 @@ a:hover {
   margin: 20px 0 32px;
 }
 
+.hosting-banner {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin: 18px 0 24px;
+  padding: 12px 16px;
+  border: 1px solid var(--spp-panel-border);
+  border-radius: 8px;
+  background: var(--spp-panel-bg);
+  color: var(--vp-c-text-2);
+  box-shadow: var(--spp-panel-shadow);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.hosting-banner__logo-link {
+  display: inline-flex;
+  flex: 0 0 64px;
+  align-items: center;
+  justify-content: center;
+}
+
+.hosting-banner__logo {
+  display: block;
+  width: 64px;
+  max-height: 42px;
+  object-fit: contain;
+}
+
+.hosting-banner a {
+  color: var(--spp-c-accent);
+  font-weight: 700;
+}
+
 .home-intro__eyebrow {
   margin: 0 0 10px;
   color: var(--spp-c-accent);

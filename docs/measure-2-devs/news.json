@@ -1,0 +1,26 @@
+[
+  {
+    "author": "ENTAILab",
+    "title": "New <strong>Measure 2 devs</strong> page",
+    "description": "The development version of the CIRCLET documentation is now available.",
+    "date": "2026-09-03"
+  },
+  {
+    "author": "CIRCLET Team",
+    "title": "DUUI components in a dedicated section",
+    "description": "The component overview is now presented in its <em>own section</em>.",
+    "date": "2026-09-02"
+  },
+  {
+    "author": "CIRCLET Team",
+    "title": "References loaded from JSON",
+    "description": "BibTeX entries are maintained centrally and can be expanded individually.",
+    "date": "2026-09-01"
+  },
+  {
+    "author": "ENTAILab",
+    "title": "CIRCLET documentation initialized",
+    "description": "The first version of the documentation page was created.",
+    "date": "2026-08-31"
+  }
+]
