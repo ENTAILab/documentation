@@ -1,0 +1,57 @@
+[
+  {
+    "name": "MMTM (tri-modal topic modeling)",
+    "description": "Extracts themes from long-form video responses with a tri-modal topic modeling workflow.",
+    "repositoryUrl": "https://github.com/ENTAILab/MutlimodalVideoTopicModeling",
+    "badges": [
+      { "label": "Python", "value": "3.12", "color": "3776AB", "logo": "python" },
+      { "label": "Jupyter", "value": "Notebook", "color": "F37626", "logo": "jupyter" },
+      { "label": "pipeline", "value": "MMTM", "color": "015c63" },
+      { "label": "task", "value": "topic modeling", "color": "00bd8b" }
+    ]
+  },
+  {
+    "name": "Image-to-topic modeling",
+    "description": "Identifies themes in donated visual material within the SmartDYN context.",
+    "repositoryUrl": "https://github.com/ENTAILab/SmartDYN_PoliticalMMTopic",
+    "badges": [
+      { "label": "Python", "value": "3.12", "color": "3776AB", "logo": "python" },
+      { "label": "project", "value": "SmartDYN", "color": "015c63" },
+      { "label": "modality", "value": "visual material", "color": "00bd8b" },
+      { "label": "task", "value": "topic modeling", "color": "0b7285" }
+    ]
+  },
+  {
+    "name": "RAG + LLM MCQ fine-tuning",
+    "description": "Supports individual-respondent modeling at scale with retrieval-augmented generation and LLM MCQ fine-tuning.",
+    "repositoryUrl": "https://github.com/ENTAILab/IndividualTextCorporaPhase1",
+    "badges": [
+      { "label": "Python", "value": "3.12", "color": "3776AB", "logo": "python" },
+      { "label": "project", "value": "IndividualTextCorporaPhase1", "color": "015c63" },
+      { "label": "method", "value": "RAG", "color": "00bd8b" },
+      { "label": "LLM", "value": "MCQ fine-tuning", "color": "0b7285" }
+    ]
+  },
+  {
+    "name": "Arabic sentiment analysis",
+    "description": "Opinion measurement in underserved languages.",
+    "repositoryUrl": "https://github.com/ENTAILab/ArabicSentimentAnalysis_AraSentEval_2026",
+    "badges": [
+      { "label": "Python", "value": "3.12", "color": "3776AB", "logo": "python" },
+      { "label": "dataset", "value": "AraSentEval", "color": "015c63" },
+      { "label": "language", "value": "Arabic", "color": "00bd8b" },
+      { "label": "task", "value": "sentiment analysis", "color": "0b7285" }
+    ]
+  },
+  {
+    "name": "Multimodal negation analysis",
+    "description": "Detects inconsistencies between what is said and what is shown across modalities.",
+    "repositoryUrl": "https://github.com/ENTAILab/CrossModalNegation",
+    "badges": [
+      { "label": "Python", "value": "3.12", "color": "3776AB", "logo": "python" },
+      { "label": "project", "value": "CrossModalNegation", "color": "015c63" },
+      { "label": "modality", "value": "multimodal", "color": "00bd8b" },
+      { "label": "task", "value": "negation analysis", "color": "0b7285" }
+    ]
+  }
+]
