@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Prof. Dr. Alexander Mehler",
+    "role": "Principal Investigator",
+    "profileUrl": "https://www.texttechnologylab.org/team/alexander-mehler/",
+    "imageUrl": "https://www.texttechnologylab.org/wp-content/uploads/2024/01/71.1-d.jpg",
+    "affiliation": "Text Technology Lab, Goethe University Frankfurt",
+    "address": "Robert-Mayer-Straße 10, 60325 Frankfurt am Main",
+    "room": "Room 403",
+    "email": "mehler@em.uni-frankfurt.de",
+    "officeHours": "Thursday, 10:00–12:00 (by appointment)"
+  },
+  {
+    "name": "Ali Abusaleh",
+    "role": "PhD Student",
+    "profileUrl": "https://www.texttechnologylab.org/team/ali-abusaleh/",
+    "imageUrl": "https://www.texttechnologylab.org/wp-content/uploads/2025/02/Abusaleh_Ali.jpg",
+    "affiliation": "Text Technology Lab, Goethe University Frankfurt",
+    "address": "Robert-Mayer-Straße 10, 60325 Frankfurt am Main",
+    "room": "Room 401e",
+    "email": "A.Abusaleh@em.uni-frankfurt.de"
+  },
+  {
+    "name": "Mevlüt Bagci",
+    "role": "PhD Student",
+    "profileUrl": "https://www.texttechnologylab.org/team/mevl%C3%BCt-bagci/",
+    "imageUrl": "https://www.texttechnologylab.org/wp-content/uploads/2024/01/Foto_Bagci-595x850-1.jpg",
+    "affiliation": "Text Technology Lab, Goethe University Frankfurt",
+    "address": "Robert-Mayer-Straße 10, 60325 Frankfurt am Main",
+    "room": "Room 401d",
+    "email": "bagci@em.uni-frankfurt.de"
+  }
+]

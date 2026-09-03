@@ -1,0 +1,62 @@
+[
+  {
+    "id": "reference-zhou-2026",
+    "label": "Zhou, Abrami, and Mehler, 2026",
+    "year": 2026,
+    "bibtex": "@unpublished{Zhou:et:al:prep,\n  title  = {DUUISlurm},\n  author = {Zhou, Jiadong and Abrami, Giuseppe and Mehler, Alexander},\n  note   = {In preparation},\n  year   = {2026}\n}"
+  },
+  {
+    "id": "reference-wigbels-2026",
+    "label": "Wigbels et al., 2026",
+    "year": 2026,
+    "bibtex": "@inproceedings{Wigbels:et:al:2026:a,\n  author    = {Wigbels, Christoph and Abusaleh, Ali and Jansen, Markus T. and Mehler, Alexander and Schaaf, Manuel and Hofmann, Markus J.},\n  title     = {Individual Text Corpora Predict User-Specific Knowledge: Benchmarks of Individualized Knowledge Simulation},\n  booktitle = {KONVENS (Konferenz zur Verarbeitung natürlicher Sprache)},\n  year      = {2026},\n  keywords  = {Individual Text Corpora, Retrieval-Augmented Generation, Personalized Language Models, Probabilistic Calibration, Knowledge Benchmarks, Data Contamination, German NLP},\n  note      = {submitted}\n}"
+  },
+  {
+    "id": "reference-weiss-2026",
+    "label": "Weiss et al., 2026",
+    "year": 2026,
+    "bibtex": "@inproceedings{weiss:et:al:2026,\n  series     = {WebSci Companion '26},\n  title      = {From Images to Topics: Evaluating Vision-Language Models for Topic Classification of Election Advertising},\n  url        = {http://dx.doi.org/10.1145/3795513.3807426},\n  doi        = {10.1145/3795513.3807426},\n  booktitle  = {Companion Publication of the 2026 18th ACM Web Science Conference},\n  publisher  = {ACM},\n  author     = {Weiss, Julia and Burger, Axel and Roßmann, Joss and Meurer, Jan Eric and Abusaleh, Ali},\n  year       = {2026},\n  month      = {May},\n  pages      = {10--14},\n  collection = {WebSci Companion '26},\n  keywords   = {Multimodal Large Language Models, Political communication, Privacy-aware AI, new-data-spaces, circlet}\n}"
+  },
+  {
+    "id": "reference-bundan-2025",
+    "label": "Bundan, Abrami, and Mehler, 2025",
+    "year": 2025,
+    "bibtex": "@inproceedings{Bundan:Abrami:Mehler:2025,\n  author    = {Bundan, Daniel and Abrami, Giuseppe and Mehler, Alexander},\n  title     = {Multimodal Docker Unified {UIMA} Interface: New Horizons for Distributed Microservice-Oriented Processing of Corpora using {UIMA}},\n  booktitle = {Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Long and Short Papers},\n  year      = {2025},\n  editor    = {Wartena, Christian and Heid, Ulrich},\n  location  = {Hildesheim, Germany},\n  address   = {Hannover, Germany},\n  publisher = {HsH Applied Academics},\n  pages     = {257--268},\n  series    = {KONVENS '25},\n  url       = {https://aclanthology.org/2025.konvens-1.22/},\n  pdf       = {https://aclanthology.org/2025.konvens-1.22.pdf}\n}"
+  },
+  {
+    "id": "reference-leonhardt-2023",
+    "label": "Leonhardt et al., 2023",
+    "year": 2023,
+    "bibtex": "@inproceedings{Leonhardt:et:al:2023,\n  title     = {Unlocking the Heterogeneous Landscape of Big Data {NLP} with {DUUI}},\n  author    = {Leonhardt, Alexander and Abrami, Giuseppe and Baumartz, Daniel and Mehler, Alexander},\n  editor    = {Bouamor, Houda and Pino, Juan and Bali, Kalika},\n  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2023},\n  year      = {2023},\n  address   = {Singapore},\n  publisher = {Association for Computational Linguistics},\n  url       = {https://aclanthology.org/2023.findings-emnlp.29},\n  pages     = {385--399},\n  pdf       = {https://aclanthology.org/2023.findings-emnlp.29.pdf}\n}"
+  },
+  {
+    "id": "reference-abrami-2025",
+    "label": "Abrami et al., 2025",
+    "year": 2025,
+    "bibtex": "@article{Abrami:et:al:2025:a,\n  title   = {Docker Unified UIMA Interface: New perspectives for NLP on big data},\n  journal = {SoftwareX},\n  volume  = {29},\n  pages   = {102033},\n  year    = {2025},\n  issn    = {2352-7110},\n  doi     = {https://doi.org/10.1016/j.softx.2024.102033},\n  url     = {https://www.sciencedirect.com/science/article/pii/S2352711024004047},\n  author  = {Giuseppe Abrami and Markos Genios and Filip Fitzermann and Daniel Baumartz and Alexander Mehler}\n}"
+  },
+  {
+    "id": "reference-borkowski-2026",
+    "label": "Borkowski et al., 2026",
+    "year": 2026,
+    "bibtex": "@article{Borkowski:et:al:2026,\n  title    = {{DUUIgateway}: A Web Service for Platform-independent, Ubiquitous Big Data NLP},\n  journal  = {SoftwareX},\n  volume   = {34},\n  pages    = {102549},\n  year     = {2026},\n  issn     = {2352-7110},\n  doi      = {https://doi.org/10.1016/j.softx.2026.102549},\n  url      = {https://www.sciencedirect.com/science/article/pii/S2352711026000439},\n  author   = {Borkowski, Cedric and Abrami, Giuseppe and Terefe, Dawit and Baumartz, Daniel and Mehler, Alexander},\n  keywords = {duui, neglab, core, core_b05, core_c08, new-data-spaces, circlet}\n}"
+  },
+  {
+    "id": "reference-abusaleh-sarf-2026",
+    "label": "Abusaleh, Verma, and Mehler, 2026",
+    "year": 2026,
+    "bibtex": "@inproceedings{Abusaleh:et:al:2026:sarf,\n  title     = {TTLab at AraSentEval: SARF( صرف) Sentiment Analysis via Root-based Fusion for Multi-Dialectal Arabic},\n  author    = {Abusaleh, Ali and Verma, Bhuvanesh and Mehler, Alexander},\n  booktitle = {The 7th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT7) with 5 Shared Tasks},\n  month     = {May},\n  year      = {2026},\n  pages     = {262--268},\n  address   = {Palma, Mallorca, Spain},\n  publisher = {European Language Resources Association (ELRA)},\n  editor    = {Al-Khalifa, Hend and El-Haj, Mustapha and Ezzini, Saad},\n  doi       = {10.63317/4wj6s3ys5osk},\n  keywords  = {NLP, Sentiment Analysis, Arabic analysis, new-data-spaces, circlet, satek}\n}"
+  },
+  {
+    "id": "reference-abusaleh-negation-2026",
+    "label": "AbuSaleh, Hammerla, and Mehler, 2026",
+    "year": 2026,
+    "bibtex": "@inproceedings{Abusaleh:et:al:2026,\n  author    = {AbuSaleh, Ali and Hammerla, Leon and Mehler, Alexander},\n  booktitle = {2026 8th International Conference on Natural Language Processing (ICNLP)},\n  title     = {Learning to Detect Cross-Modal Negation: An Analysis of Latent Representations and an Attention-Based Solution},\n  year      = {2026},\n  pages     = {613--622},\n  doi       = {10.1109/ICNLP69856.2026.11527861},\n  keywords  = {Natural language processing, Cross-modal retrieval, negation detection, video analysis, Multimodal analysis, Political Communication, neglab, new-data-spaces, circlet}\n}"
+  },
+  {
+    "id": "reference-bagci-2026",
+    "label": "Bagci et al., 2026",
+    "year": 2026,
+    "bibtex": "@inproceedings{bagci:et:al:2026,\n  title     = {Extending a Parliamentary Corpus with {MP}s{\\textquoteright} Tweets: Automatic Annotation and Evaluation Using {TTLABTWEETCORPUS}},\n  author    = {Mevlüt Bagci and Ali Abusaleh and Daniel Baumartz and Alexander Mehler and Giuseppe Abrami and Maxim Konca},\n  booktitle = {KONVENS 2026 - Context matters: NLP beyond Text},\n  year      = {2026},\n  address   = {Hamburg, Germany},\n  keywords  = {Corpora, Tweets, Political Data, Text, Media classification},\n  note      = {accepted}\n}"
+  }
+]
