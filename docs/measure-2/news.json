@@ -1,5 +1,23 @@
 [
   {
+    "author": "Bhuvanesh Verma",
+    "title": "TTLab Paper Accepted at ArabicNLP 2026 Daleel Shared Task",
+    "description": "We are happy to announce that our paper 'STAR-Ar: Sequence Tagging for Argument Recognition in Arabic' by Bhuvanesh Verma, Ali Abusaleh, and Alexander Mehler has been accepted at the SIGARAB ArabicNLP 2026 Daleel Shared Task. The paper presents a sequence-tagging approach to argument component identification and classification in Arabic text.",
+    "date": "2026-09-14"
+  },
+  {
+    "author": "Ali Abusaleh",
+    "title": "TTLab Paper Accepted at ArabicNLP 2026 AlexandriaX Shared Task",
+    "description": "We are happy to announce that our paper 'A Fine-Tuned Surface Tagger for Arabic Machine-Translation Error-Span Detection and Classification' by Ali Abusaleh, Bhuvanesh Verma, and Alexander Mehler has been accepted at the SIGARAB ArabicNLP 2026 AlexandriaX Shared Task. The work addresses error-span detection and classification for dialectal Arabic machine translation.",
+    "date": "2026-09-14"
+  },
+  {
+    "author": "Bhuvanesh Verma",
+    "title": "TTLab Paper Accepted at ArabicNLP 2026 StanceEval Shared Task",
+    "description": "We are happy to announce that our paper 'CLASP-Ar: A Cloze-Style Prompting Approach for Arabic-Language Stance Detection' by Bhuvanesh Verma, Ali Abusaleh, and Alexander Mehler has been accepted at the SIGARAB ArabicNLP 2026 StanceEval Shared Task. The paper introduces a cloze-style prompting method for Arabic stance detection.",
+    "date": "2026-09-14"
+  },
+  {
     "author": "Coco Sittardt",
     "title": "ENTAILab <strong>Anonymization Website</strong> available",
     "description": "The browser-based anonymization application developed by Coco Sittardt is now available at <a href=\"https://www.anonymization.entailab.texttechnologylab.org/\" target=\"_blank\" rel=\"noreferrer\">anonymization.entailab.texttechnologylab.org</a>.",

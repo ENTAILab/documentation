@@ -1,5 +1,23 @@
 [
   {
+    "id": "reference-verma-2026-star",
+    "label": "Verma, Abusaleh, and Mehler, 2026 (STAR)",
+    "year": 2026,
+    "bibtex": "@inproceedings{Verma:et:al:2026:STAR,\n  title     = {TTLab at Daleel 2026: STAR-Ar, Sequence Tagging for Argument Recognition in Arabic},\n  author    = {Bhuvanesh Verma and Ali Abusaleh and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 Daleel Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {Arabic, Argument Mining, ADU, Argument Component Identification, Argument Component Classification, Arabic-NLP, spp, circlet},\n  note      = {accepted}\n}"
+  },
+  {
+    "id": "reference-abusaleh-2026-mt",
+    "label": "Abusaleh, Verma, and Mehler, 2026 (AlexandriaX)",
+    "year": 2026,
+    "bibtex": "@inproceedings{Abusaleh:et:al:2026:mt,\n  title     = {TTLab at AlexandriaX-2026: A Fine-Tuned Surface Tagger for Arabic Machine-Translation Error-Span Detection and Classification},\n  author    = {Ali Abusaleh and Bhuvanesh Verma and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 AlexandriaX Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {Arabic NLP, dialectal Arabic, machine translation quality estimation, error span detection, sequence tagging, token classification, MARBERT, focal loss, class imbalance, MQM, low-resource NLP, spp, circlet},\n  note      = {accepted}\n}"
+  },
+  {
+    "id": "reference-verma-2026-clasp",
+    "label": "Verma, Abusaleh, and Mehler, 2026 (CLASP)",
+    "year": 2026,
+    "bibtex": "@inproceedings{Verma:et:al:2026:CLASP,\n  title     = {TTLab at StanceEval-2026: A Cloze-Style Prompting Approach for Arabic-Language Stance Detection (CLASP-Ar)},\n  author    = {Bhuvanesh Verma and Ali Abusaleh and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 StanceEval Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {NLP, Stance Detection, Arabic-nlp, multitask learning, spp, circlet},\n  note      = {accepted}\n}"
+  },
+  {
     "id": "reference-zhou-2026",
     "label": "Zhou, Abrami, and Mehler, 2026",
     "year": 2026,
@@ -43,7 +61,7 @@
   },
   {
     "id": "reference-abusaleh-sarf-2026",
-    "label": "Abusaleh, Verma, and Mehler, 2026",
+    "label": "Abusaleh, Verma, and Mehler, 2026 (SARF)",
     "year": 2026,
     "bibtex": "@inproceedings{Abusaleh:et:al:2026:sarf,\n  title     = {TTLab at AraSentEval: SARF( صرف) Sentiment Analysis via Root-based Fusion for Multi-Dialectal Arabic},\n  author    = {Abusaleh, Ali and Verma, Bhuvanesh and Mehler, Alexander},\n  booktitle = {The 7th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT7) with 5 Shared Tasks},\n  month     = {May},\n  year      = {2026},\n  pages     = {262--268},\n  address   = {Palma, Mallorca, Spain},\n  publisher = {European Language Resources Association (ELRA)},\n  editor    = {Al-Khalifa, Hend and El-Haj, Mustapha and Ezzini, Saad},\n  doi       = {10.63317/4wj6s3ys5osk},\n  keywords  = {NLP, Sentiment Analysis, Arabic analysis, new-data-spaces, circlet, satek}\n}"
   },
