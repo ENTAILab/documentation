@@ -1,0 +1,56 @@
+[
+  {
+    "id": "abusaleh-duui-anonymize-2026",
+    "label": "Abusaleh, 2026: DUUI Anonymize",
+    "year": 2026,
+    "bibtex": "@misc{abusaleh_duui_anonymize_2026,\n  author       = {Abusaleh, Ali},\n  title        = {{DUUI Anonymize}: PII Detection and Redaction Component for {DUUI}},\n  year         = {2026},\n  institution  = {Text Technology Lab, Goethe University Frankfurt},\n  howpublished = {\\url{https://github.com/texttechnologylab/duui-uima}},\n  note         = {Part of the DockerUnifiedUIMAInterface (DUUI) component ecosystem}\n}"
+  },
+  {
+    "id": "bards-ai-2026",
+    "label": "bards.ai et al., 2026: eu-pii-anonimization-multilang",
+    "year": 2026,
+    "bibtex": "@misc{bards.ai_2026,\n    author    = {bards.ai and Michał Swędrowski and others},\n    title     = {eu-pii-anonimization-multilang (Revision 6de9f68)},\n    year      = {2026},\n    url       = {https://huggingface.co/bardsai/eu-pii-anonimization-multilang},\n    doi       = {10.57967/hf/8721},\n    publisher = {Hugging Face}\n}"
+  },
+  {
+    "id": "openmed-privacy-filter-nemotron-2026",
+    "label": "OpenMed, 2026: Privacy Filter Nemotron",
+    "year": 2026,
+    "bibtex": "@misc{openmed_privacy_filter_nemotron_2026,\n  author       = {OpenMed},\n  title        = {{OpenMed/privacy-filter-nemotron}: fine-grained PII extraction with 55 categories},\n  year         = {2026},\n  publisher    = {Hugging Face},\n  howpublished = {\\url{https://huggingface.co/OpenMed/privacy-filter-nemotron}}\n}"
+  },
+  {
+    "id": "openmed-2026",
+    "label": "OpenMed, 2026: Open models and resources for healthcare NLP",
+    "year": 2026,
+    "bibtex": "@misc{openmed_2026,\n  author       = {OpenMed},\n  title        = {{OpenMed}: open models and resources for healthcare NLP},\n  year         = {2026},\n  publisher    = {Hugging Face},\n  howpublished = {\\url{https://huggingface.co/OpenMed}}\n}"
+  },
+  {
+    "id": "oh-subject-level-inference-2026",
+    "label": "Oh et al., 2026: Subject-level Inference",
+    "year": 2026,
+    "bibtex": "@inproceedings{oh-etal-2026-subject,\n    title = \"Subject-level Inference for Realistic Text Anonymization Evaluation\",\n    author = \"Oh, Myeong Seok and\n              Kim, Dong-Yun and\n              Oh, Hanseok and\n              Kang, Chaean and\n              Kang, Joeun and\n              Wang, Xiaonan and\n              Park, Hyunjung and\n              Jung, Young Cheol and\n              Kim, Hansaem\",\n    booktitle = \"Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)\",\n    month = jul,\n    year = \"2026\",\n    address = \"San Diego, California, United States\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2026.acl-long.778/\",\n    doi = \"10.18653/v1/2026.acl-long.778\",\n    pages = \"17100--17135\"\n}"
+  },
+  {
+    "id": "krco-rat-bench-2026",
+    "label": "Krčo et al., 2026: RAT-Bench",
+    "year": 2026,
+    "bibtex": "@misc{krco2026ratbench,\n    title = \"{RAT-Bench}: A Comprehensive Benchmark for Text Anonymization\",\n    author = \"Kr{\\v{c}}o, Nata{\\v{s}}a and\n              Yao, Zexi and\n              Meeus, Matthieu and\n              de Montjoye, Yves-Alexandre\",\n    year = \"2026\",\n    eprint = \"2602.12806\",\n    archivePrefix = \"arXiv\",\n    primaryClass = \"cs.CL\",\n    doi = \"10.48550/arXiv.2602.12806\",\n    url = \"https://arxiv.org/abs/2602.12806\"\n}"
+  },
+  {
+    "id": "openai-privacy-filter-2025",
+    "label": "OpenAI, 2025: Privacy Filter",
+    "year": 2025,
+    "bibtex": "@misc{openai_privacy_filter_2025,\n  author       = {OpenAI},\n  title        = {{openai/privacy-filter}},\n  year         = {2025},\n  publisher    = {Hugging Face},\n  howpublished = {\\url{https://huggingface.co/openai/privacy-filter}}\n}"
+  },
+  {
+    "id": "nemotron-pii-2025",
+    "label": "NVIDIA, 2025: Nemotron-PII",
+    "year": 2025,
+    "bibtex": "@misc{nemotron_pii_2025,\n  author       = {NVIDIA},\n  title        = {{Nemotron-PII}},\n  year         = {2025},\n  publisher    = {Hugging Face},\n  howpublished = {\\url{https://huggingface.co/datasets/nvidia/Nemotron-PII}}\n}"
+  },
+  {
+    "id": "pilan-tab-2022",
+    "label": "Pilán et al., 2022: Text Anonymization Benchmark",
+    "year": 2022,
+    "bibtex": "@article{pilan-etal-2022-text,\n    title = \"The Text Anonymization Benchmark ({TAB}): A Dedicated Corpus and Evaluation Framework for Text Anonymization\",\n    author = \"Pil{\\'a}n, Ildik{\\'o} and\n        Lison, Pierre and\n        {\\O}vrelid, Lilja and\n        Papadopoulou, Anthi and\n        S{\\'a}nchez, David and\n        Batet, Montserrat\",\n    journal = \"Computational Linguistics\",\n    volume = \"48\",\n    number = \"4\",\n    month = dec,\n    year = \"2022\",\n    publisher = \"MIT Press\",\n    url = \"https://aclanthology.org/2022.cl-4.19/\",\n    doi = \"10.1162/coli_a_00458\",\n    pages = \"1053--1101\"\n}"
+  }
+]
