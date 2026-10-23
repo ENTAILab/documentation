@@ -1,5 +1,11 @@
 [
   {
+    "author": "Ali Abusaleh",
+    "title": "New blog post: <strong>Anonymizing Research Data in DUUI</strong>",
+    "description": "An overview of the ENTAILab Measure 2 (CIRCLET) anonymization components for text, speech, and images and video. <a href=\"../blog/#anonymizing-research-data-in-duui\" target=\"_blank\" rel=\"noreferrer\">Read the blog post</a>.",
+    "date": "2026-10-23"
+  },
+  {
     "author": "Tim Wolf",
     "title": "New blog post: <strong>Choosing a Text Anonymization Model</strong>",
     "description": "Tim Wolf compares OpenMed Nemotron, OpenAI Privacy Filter, and BardsAI using TAB, SPIA, and RAT-Bench. <a href=\"../blog/#choosing-a-text-anonymization-model\">Read the blog post</a>.",
