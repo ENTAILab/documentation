@@ -119,9 +119,12 @@ needs, in a pipeline that is documented and repeatable.
 
 ## Contributors and code
 
-`duui-anonymize` was developed by Ali Abusaleh. `duui-speaker-anonymization` was developed
-by Tim Wolf, and `duui-face_anon` by Tim Wolf and Coco Sittardt, both under the supervision
-of Ali Abusaleh. All three components are available in
+`duui-anonymize` was developed by [Ali Abusaleh](https://www.texttechnologylab.org/team/ali-abusaleh/).
+`duui-speaker-anonymization` was developed by Tim Wolf, and `duui-face_anon` by Tim Wolf and
+Coco Sittardt, both under the supervision of
+[Ali Abusaleh](https://www.texttechnologylab.org/team/ali-abusaleh/) and
+[Giuseppe Abrami](https://www.texttechnologylab.org/team/giuseppe-abrami/).
+All three components are available in
 [texttechnologylab/duui-uima](https://github.com/texttechnologylab/duui-uima).
 
   </article>
