@@ -18,7 +18,7 @@ const sortedPapers = [...papers].sort((a, b) =>
       <span><i class="fa-regular fa-calendar" aria-hidden="true"></i> 23 October 2026</span>
       <span><i class="fa-regular fa-user" aria-hidden="true"></i> Ali Abusaleh</span>
     </span>
-    <span class="blog-post__excerpt">How CIRCLET protects people in social-science data: PII redaction in text, synthetic voices for speech, and diffusion-based face anonymization for images and video.</span>
+    <span class="blog-post__excerpt">How ENTAILab Measure 2 (CIRCLET) protects people in social-science data: PII redaction in text, synthetic voices for speech, and diffusion-based face anonymization for images and video.</span>
     <span class="blog-post__action">
       <span class="blog-post__read"><i class="fa-solid fa-book-open" aria-hidden="true"></i> Read article</span>
       <span class="blog-post__close"><i class="fa-solid fa-chevron-up" aria-hidden="true"></i> Close article</span>
@@ -33,7 +33,7 @@ employers, interviews carry voices that identify the speaker, and photo and vide
 answers show faces. Before such data can be shared, reused or analysed with external
 models, the people in it need protecting, while the data stays useful for research.
 
-In ENTAILab's CIRCLET infrastructure this is handled by a set of
+In ENTAILab Measure 2 (CIRCLET) this is handled by a set of
 [DUUI](https://github.com/texttechnologylab/DockerUnifiedUIMAInterface) components,
 one per modality. Because they are ordinary DUUI components, a project can place
 anonymization at the start of any pipeline, before transcription, topic modeling or a
@@ -69,7 +69,7 @@ German and English samples.
 ### How the three models compare
 
 The models were evaluated on TAB, SPIA and RAT-Bench; the full results are in
-[Choosing a Text Anonymization Model](#choosing-a-text-anonymization-model). In short:
+<a href="./#choosing-a-text-anonymization-model" target="_blank" rel="noreferrer">Choosing a Text Anonymization Model</a>. In short:
 
 - **OpenMed Nemotron** removes the most: TAB token recall of 70.2% and the lowest explicit
   re-identification rate on RAT-Bench (49.8%), at the cost of changing more text (BLEU 0.893).
@@ -108,7 +108,7 @@ choosing representative frames per time segment, so long recordings remain affor
 
 ## Why components, not a single tool
 
-Projects in the programme mix modalities differently: one has only open text answers,
+Projects supported by ENTAILab Measure 2 (CIRCLET) mix modalities differently: one has only open text answers,
 another has video interviews. Separate components let each project compose only what it
 needs, in a pipeline that is documented and repeatable.
 
