@@ -18,6 +18,18 @@
     "bibtex": "@inproceedings{weiss:et:al:2026,\n  series     = {WebSci Companion '26},\n  title      = {From Images to Topics: Evaluating Vision-Language Models for Topic Classification of Election Advertising},\n  url        = {http://dx.doi.org/10.1145/3795513.3807426},\n  doi        = {10.1145/3795513.3807426},\n  booktitle  = {Companion Publication of the 2026 18th ACM Web Science Conference},\n  publisher  = {ACM},\n  author     = {Weiss, Julia and Burger, Axel and Roßmann, Joss and Meurer, Jan Eric and Abusaleh, Ali},\n  year       = {2026},\n  month      = {May},\n  pages      = {10--14},\n  collection = {WebSci Companion '26},\n  keywords   = {Multimodal Large Language Models, Political communication, Privacy-aware AI, new-data-spaces, circlet}\n}"
   },
   {
+  "id": "reference-verma-star-2026",
+  "label": "Verma, Abusaleh, and Mehler, 2026",
+  "year": 2026,
+  "bibtex": "@inproceedings{Verma:et:al:2026:STAR,\n  title     = {TTLab at Daleel 2026: STAR-Ar, Sequence Tagging for Argument Recognition\n               in Arabic},\n  author    = {Bhuvanesh Verma and Ali Abusaleh and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 Daleel Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {Arabic, Argument Mining, ADU, Argument Component Identification, Argument Component Classification, Arabic-NLP, spp, circlet},\n  note      = {accepted}\n}"
+},
+ {
+  "id": "reference-verma-clasp-2026",
+  "label": "Verma, Abusaleh, and Mehler, 2026",
+  "year": 2026,
+  "bibtex": "@inproceedings{Verma:et:al:2026:CLASP,\n  title     = {TTLab at StanceEval-2026: A Cloze-Style Prompting Approach for\n               Arabic-Language Stance Detection (CLASP-Ar)},\n  author    = {Bhuvanesh Verma and Ali Abusaleh and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 StanceEval Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {NLP, Stance Detection, Arabic-nlp, multitask learning, spp, circlet},\n  note      = {accepted}\n}"
+},
+  {
     "id": "reference-bundan-2025",
     "label": "Bundan, Abrami, and Mehler, 2025",
     "year": 2025,
@@ -53,6 +65,12 @@
     "year": 2026,
     "bibtex": "@inproceedings{Abusaleh:et:al:2026,\n  author    = {AbuSaleh, Ali and Hammerla, Leon and Mehler, Alexander},\n  booktitle = {2026 8th International Conference on Natural Language Processing (ICNLP)},\n  title     = {Learning to Detect Cross-Modal Negation: An Analysis of Latent Representations and an Attention-Based Solution},\n  year      = {2026},\n  pages     = {613--622},\n  doi       = {10.1109/ICNLP69856.2026.11527861},\n  keywords  = {Natural language processing, Cross-modal retrieval, negation detection, video analysis, Multimodal analysis, Political Communication, neglab, new-data-spaces, circlet}\n}"
   },
+  {
+  "id": "reference-abusaleh-mt-2026",
+  "label": "Abusaleh, Verma, and Mehler, 2026",
+  "year": 2026,
+  "bibtex": "@inproceedings{Abusaleh:et:al:2026:mt,\n  title     = {TTLab at AlexandriaX-2026: A Fine-Tuned Surface Tagger for Arabic\n               Machine-Translation Error-Span Detection and Classification},\n  author    = {Ali Abusaleh and Bhuvanesh Verma and Alexander Mehler},\n  booktitle = {SIGARAB ArabicNLP 2026 AlexandriaX Shared Task},\n  year      = {2026},\n  address   = {Budapest, Hungary},\n  keywords  = {Arabic NLP, dialectal Arabic, machine translation quality estimation, error span detection, sequence tagging, token classification, MARBERT, focal loss, class imbalance, MQM, low-resource NLP, spp, circlet},\n  note      = {accepted}\n}"
+},
   {
     "id": "reference-bagci-2026",
     "label": "Bagci et al., 2026",
