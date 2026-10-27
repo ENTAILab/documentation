@@ -1,0 +1,18 @@
+[
+  {
+    "id": "anonymizing-research-data-in-duui",
+    "title": "Anonymizing Research Data in DUUI: Text, Voices, Faces and Video",
+    "author": "Ali Abusaleh",
+    "date": "2026-10-23",
+    "category": "Anonymization",
+    "excerpt": "How ENTAILab Measure 2 (CIRCLET) protects people in social-science data: PII redaction in text, synthetic voices for speech, and diffusion-based face anonymization for images and video."
+  },
+  {
+    "id": "choosing-a-text-anonymization-model",
+    "title": "Choosing a Text Anonymization Model",
+    "author": "Tim Wolf",
+    "date": "2026-10-15",
+    "category": "Text Anonymization",
+    "excerpt": "A comparison of OpenMed Nemotron, OpenAI Privacy Filter, and BardsAI using TAB, SPIA, and RAT-Bench."
+  }
+]

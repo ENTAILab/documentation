@@ -1,7 +1,15 @@
 <script setup>
 import news from './news.json'
+import blogPosts from '../blog/posts.json'
 
-const sortedNews = [...news].sort(
+const blogNews = blogPosts.map((post) => ({
+  author: post.author,
+  title: `New blog post: <strong>${post.title}</strong>`,
+  description: `${post.excerpt} <a href="../blog/#${post.id}" target="_blank" rel="noreferrer">Read the blog post</a>.`,
+  date: post.date
+}))
+
+const sortedNews = [...news, ...blogNews].sort(
   (left, right) => Date.parse(right.date) - Date.parse(left.date)
 )
 

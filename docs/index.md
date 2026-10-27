@@ -1,3 +1,7 @@
+<script setup>
+import NewsAside from './measure-2/NewsAside.vue'
+</script>
+
 # Research Infrastructure and Innovation Lab (ENTAILab)
 
 <aside class="hosting-banner" aria-label="Hosting information">
@@ -25,37 +29,42 @@
 
 </section>
 
+<NewsAside news-page="measure-2/" />
+
 <section class="home-section" aria-labelledby="documentation-areas">
   <h2 id="documentation-areas" class="home-section__title">ENTAILab</h2>
   <div class="resource-grid">
-    <a class="resource-card resource-card--link" href="measure-1/">
-      <span>Measure 1</span>
+    <a class="resource-card resource-card--secondary" href="https://www.new-data-spaces.de/en-us/Start/About-the-Programme/ENTAILab" target="_blank" rel="noreferrer">
+      <span>Measure 1: Build on and Develop Existing Panel Studies</span>
+      <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
     </a>
     <!--### -->
     <a class="resource-card resource-card--featured" href="measure-2/">
       <span class="resource-card__label">Measure 2 <span class="resource-card__focus"><i class="fa-solid fa-star" aria-hidden="true"></i> Our work</span></span>
       <h3 class="resource-card__title">Research-Driven Infrastructure for Advanced Survey-Related Data (CIRCLET) </h3>
       <p class="resource-card__description">ENTAILab involves the implementation, testing and provision of a strong research-oriented tool in the form of a research-driven infrastructure for advanced survey-related data (<b>CIRCLET</b>). CIRCLET will ensure the reproducibility and interoperability of methods working with survey data. This is done through a multi-phase strategy that drives, scales and evaluates the development of methods based on new survey data over the course of InfPP. CIRCLET develops, tests and provides generic services to open up new data and methodological horizons according to the evolving needs of InfPP.</p>
-      <span class="resource-card__meta">More about Measure 2</span>
+      <span class="resource-card__meta">More about Measure 2 <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
     </a>
     <!--### -->
     <a class="resource-card resource-card--link" href="measure-3/">
-      <span>Measure 3</span>
+      <span>Measure 3: Data Protection and Ethics</span>
+      <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
     </a>
     <!--### -->
     <a class="resource-card resource-card--link" href="measure-4/">
-      <span>Measure 4</span>
+      <span>Measure 4: Results for Future Data Spaces and Open Science</span>
+      <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
     </a>
   </div>
 
 <h2 id="pi-area" class="home-section__title">Principal Investigators</h2>
 <ul>
-  <li>Prof. Dr. Cordula Artelt</li>
-  <li>Prof. Dr. Corinna Kleinert</li>
-  <li>Prof. Dr. Stefan Liebig</li>
-  <li>Prof. Dr. Alexander Mehler</li>
-  <li>Prof. Dr. Reinhard Pollak</li>
-  <li>Prof. Dr. Sabine Zinn</li>
+  <li>Prof. Dr. Cordula Artelt (Measure 4)</li>
+  <li>Prof. Dr. Corinna Kleinert (Measure 4)</li>
+  <li>Prof. Dr. Stefan Liebig (Measure 1)</li>
+  <li>Prof. Dr. Alexander Mehler (Measure 2)</li>
+  <li>Prof. Dr. Reinhard Pollak (Measure 3)</li>
+  <li>Prof. Dr. Sabine Zinn (Measure 1)</li>
 </ul>
 
 

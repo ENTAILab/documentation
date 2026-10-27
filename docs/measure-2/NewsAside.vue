@@ -1,11 +1,26 @@
 <script setup>
 import { computed, onMounted, ref } from 'vue'
 import news from './news.json'
+import blogPosts from '../blog/posts.json'
+
+const props = defineProps({
+  newsPage: {
+    type: String,
+    default: ''
+  }
+})
+
+const blogNews = blogPosts.map((post) => ({
+  author: post.author,
+  title: `New blog post: <strong>${post.title}</strong>`,
+  description: `${post.excerpt} Read the blog post.`,
+  date: post.date
+}))
 
 const asideReady = ref(false)
 
 const latestNews = computed(() =>
-  [...news]
+  [...news, ...blogNews]
     .sort((left, right) => Date.parse(right.date) - Date.parse(left.date))
     .slice(0, 3)
 )
@@ -17,6 +32,9 @@ const formatDate = (date) =>
     year: 'numeric'
   }).format(new Date(`${date}T00:00:00`))
 
+const newsAnchor = (item, index) =>
+  `${props.newsPage}#news-${item.date}-${index + 1}`
+
 onMounted(() => {
   asideReady.value = Boolean(document.querySelector('.VPDocAside'))
 })
@@ -26,11 +44,11 @@ onMounted(() => {
   <Teleport v-if="asideReady" to=".VPDocAside">
     <aside class="news-aside" aria-labelledby="latest-news-title">
       <h2 id="latest-news-title" class="news-aside__heading">
-        <a href="#latest-news">Latest news</a>
+        <a :href="`${props.newsPage}#latest-news`">Latest news</a>
       </h2>
       <ol class="news-aside__list">
         <li v-for="(item, index) in latestNews" :key="`${item.date}-${item.title}`" class="news-aside__item">
-          <a class="news-aside__link" :href="`#news-${item.date}-${index + 1}`">
+          <a class="news-aside__link" :href="newsAnchor(item, index)">
             <time class="news-aside__date" :datetime="item.date">{{ formatDate(item.date) }}</time>
             <h3 class="news-aside__title" v-html="item.title"></h3>
             <div class="news-aside__description" v-html="item.description"></div>
